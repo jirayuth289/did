@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jirayuth289/ghdid/issues"
   },
-  "homepage": "https://github.com/jirayuth289/ghdid#readme"
+  "homepage": "https://github.com/jirayuth289/ghdid#readme",
+  "dependencies": {
+    "@github-did/lib": "0.0.3"
+  }
 }
