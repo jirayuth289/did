@@ -1,0 +1,20 @@
+{
+  "name": "ghdid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jirayuth289/ghdid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jirayuth289/ghdid/issues"
+  },
+  "homepage": "https://github.com/jirayuth289/ghdid#readme"
+}
